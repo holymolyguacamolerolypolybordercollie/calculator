@@ -1,0 +1,21 @@
+* { box-sizing: border-box }
+.screen-operator { width: 50px; height: 50px; margin: 5px; text-align: center; padding : 0px 5px;}
+.screen-result { width: 180px; height: 50px; margin: 5px; text-align: right; padding : 0px 5px;}
+button { width: 50px; height: 50px; margin: 5px; }
+
+.equalsto{
+    background-color:#760C0C;
+    color:white;
+    border-color:none;
+    width:180px;
+}
+
+.equalsto:hover{
+    background-color:#b31b1b;
+    color:white;
+    border-color:none;
+}
+
+.equalsto:active{
+    background-color:brown;
+}
